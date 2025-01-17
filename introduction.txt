@@ -1,0 +1,6 @@
+What is emmett?
+Emmett is an in built function for Visual Studio Code using abreviations.
+
+Why is emmett used?
+For speed and efficiency.
+
