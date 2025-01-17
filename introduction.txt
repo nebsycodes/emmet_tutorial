@@ -1,6 +1,16 @@
+This lesson is designed for people that already have some base knowledge of html
+
 What is emmett?
 Emmett is an in built function for Visual Studio Code using abreviations.
 
 Why is emmett used?
-For speed and efficiency.
+For speed and efficiency when coding
+
+What we will go through:
+We'll work through the basics of shorcutting our code with a html template, 
+then we'll delve deeper into how we can use shorcuts, 
+then we'll create multiple shorcuts together to show far it can go.
+
+First of all i would like you all to follow along and create a file for each step.
+so then you can have this as your own resource to refer to.
 

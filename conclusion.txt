@@ -1,0 +1,13 @@
+I hope you find this as a helpful tool that can be used to speed up your code
+
+these are the ones we have learned:
+! - for our html template
+crtl / - to comment out a line
+div*5 - to create multiple elements
+li+p - place elements near each other, on the same level.
+li>p - nest elements inside each other.
+
+Any questions?
+
+
+
