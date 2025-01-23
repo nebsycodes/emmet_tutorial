@@ -6,8 +6,3 @@ crtl / - to comment out a line
 div*5 - to create multiple elements
 li+p - place elements near each other, on the same level.
 li>p - nest elements inside each other.
-
-Any questions?
-
-
-
