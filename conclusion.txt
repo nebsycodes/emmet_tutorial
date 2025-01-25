@@ -7,7 +7,8 @@ x*5 - to create multiple elements
 x+p - place elements near each other, on the same level.
 x>p - nest elements inside each other.
 
-for more: you can check out this cheat sheet: https://docs.emmet.io/cheat-sheet/
+for more: 
+you can check out this cheat sheet: https://docs.emmet.io/cheat-sheet/
 
 I have found emmett from my further learning and I 
 find it very useful for my programming, so I wanted to share this with you all.
