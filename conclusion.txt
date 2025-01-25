@@ -3,6 +3,11 @@ I hope you find this as a helpful tool that can be used to speed up your code
 these are the ones we have learned:
 ! - for our html template
 crtl / - to comment out a line
-div*5 - to create multiple elements
-li+p - place elements near each other, on the same level.
-li>p - nest elements inside each other.
+x*5 - to create multiple elements
+x+p - place elements near each other, on the same level.
+x>p - nest elements inside each other.
+
+for more: you can check out this cheat sheet: https://docs.emmet.io/cheat-sheet/
+
+I have found emmett from my further learning and I 
+find it very useful for my programming, so I wanted to share this with you all.
