@@ -3,16 +3,16 @@ Hi I'm James!
 This lesson is designed for people that already have some base knowledge of HTML. This is assuming they know different
 elements in HTML, such as print, list, and divs.
 
-What is emmett?
-Emmett is an in built function for Visual Studio Code using abreviations. It can be used for a wide range of 
+What is emmet?
+Emmett is an in built function for Visual Studio Code using abbreviations. It can be used for a wide range of 
 programming languages. Created by Vadim Makeev in 2008. 
 
-Why is emmett used?
+Why is emmet used?
 For speed and efficiency when coding, it reduces the need for repetitive typing. This is all about working smarter, not harder.
 
 We will go through 5 steps for this lesson:
-- The basics of shorcutting our code with a html template, 
-- Delve deeper into how we can use more shorcuts, 
+- The basics of shortcutting our code with a html template, 
+- Delve deeper into how we can use more shortcuts, 
 - Create multiple shortcuts together to see how far it can go.
 
 First of all i would like you all to follow along and create a file for each step.
