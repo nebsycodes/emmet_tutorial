@@ -4,7 +4,7 @@ This lesson is designed for people that already have some base knowledge of HTML
 elements in HTML, such as print, list, and divs.
 
 What is emmet?
-Emmett is an in built function for Visual Studio Code using abbreviations. It can be used for a wide range of 
+Emmet is an in built function for Visual Studio Code using abbreviations. It can be used for a wide range of 
 programming languages. Created by Vadim Makeev in 2008. 
 
 Why is emmet used?
