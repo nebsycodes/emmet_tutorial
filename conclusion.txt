@@ -10,5 +10,5 @@ x>y - nest elements inside each other.
 for more:
 you can check out this cheat sheet: https://docs.emmet.io/cheat-sheet/
 
-I discovered emmett through my further learning and I
+I discovered emmet through my further learning and I
 find it very useful for my programming, so I wanted to share this with you all.
