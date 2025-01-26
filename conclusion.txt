@@ -1,14 +1,14 @@
 I hope you find this as a helpful tool that can be used to speed up your code
 
-these are the ones we have learned:
+these are the ones we have learned x/y being any element:
 ! - for our html template
 crtl / - to comment out a line
 x*5 - to create multiple elements
 x+y - place elements near each other, on the same level.
 x>y - nest elements inside each other.
 
-for more: 
+for more:
 you can check out this cheat sheet: https://docs.emmet.io/cheat-sheet/
 
-I have found emmett from my further learning and I 
+I discovered emmett through my further learning and I
 find it very useful for my programming, so I wanted to share this with you all.
