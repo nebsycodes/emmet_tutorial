@@ -4,8 +4,8 @@ these are the ones we have learned:
 ! - for our html template
 crtl / - to comment out a line
 x*5 - to create multiple elements
-x+p - place elements near each other, on the same level.
-x>p - nest elements inside each other.
+x+y - place elements near each other, on the same level.
+x>y - nest elements inside each other.
 
 for more: 
 you can check out this cheat sheet: https://docs.emmet.io/cheat-sheet/
