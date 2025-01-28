@@ -7,7 +7,7 @@ Today we are learning emmet, so let's begin
 What is emmet?
     You know when you are texting your friends and you have an event to get to, 
     you're in rush and your just about to exit the door and you quickly text "omw",
-    then your phone automatically converts it to say "On my way!".
+    then iphones would automatically convert it to say "On my way!".
     This is what emmet does in programming.
 
 Why is emmet used?
