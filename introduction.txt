@@ -1,24 +1,24 @@
 // FYI //
-This lesson is designed for people that already have some base knowledge of HTML. This is assuming they know different
+This lesson is designed for people who already have some basic knowledge of HTML. This is assuming they know different
 elements in HTML, such as print, list, and divs.
 
 Today we are learning emmet, so let's begin
 
 What is emmet?
     You know when you are texting your friends and you have an event to get to, 
-    you're in rush and your just about to exit the door and you quickly text "omw",
-    then iphones would automatically convert it to say "On my way!".
+    you're in a rush and you're just about to exit the door and you quickly text "omw",
+    then iPhones would automatically convert it to say "On my way!".
     This is what emmet does in programming.
 
 Why is emmet used?
     For speed and efficiency when coding, it reduces the need for repetitive typing. This is all about working smarter, not harder.
 
 We will go through 6 steps for this lesson:
-- The basics of shorcutting our code with a html template, 
-- Delve deeper into how we can use more shorcuts, 
+- The basics of shortcutting our code with a html template, 
+- Delve deeper into how we can use more shortcuts, 
 - Bringing it all together
 
-First of all i would like you all to follow along on VSC and create one file called "emmet.html".
+First of all, I would like you all to follow along on VSC and create one file called "emmet.html".
 so then you can have this as your own resource to refer to.
 
 We'll review all these steps at the end of the lesson.
